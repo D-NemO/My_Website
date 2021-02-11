@@ -1,0 +1,2 @@
+first : copy the code from the blog file and paste it in your <Body> section.
+second : copy the css from css folder and paste it in your <Head> section.  
